@@ -1,0 +1,5 @@
+{
+  "name": "ThumbnailGen AI",
+  "description": "Create viral YouTube thumbnails featuring yourself using AI. Upload a reference photo, choose a style, and let Gemini 3 Pro generate the rest.",
+  "requestFramePermissions": []
+}
